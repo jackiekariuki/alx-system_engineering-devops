@@ -1,1 +1,11 @@
-Task 0.Where am i ?
+
+
+
+
+
+
+
+[A[A[A[A[A[A
+cd ..
+exit
+
