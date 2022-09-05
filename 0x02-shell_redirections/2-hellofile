@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "it contains username, password, and user ID number"
